@@ -1,5 +1,7 @@
 # workshop-template
 
+[![Join the chat at https://gitter.im/2016-09-19-ttt-osu/Lobby](https://badges.gitter.im/2016-09-19-ttt-osu/Lobby.svg)](https://gitter.im/2016-09-19-ttt-osu/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
 template for creating websites for workshops.
 
